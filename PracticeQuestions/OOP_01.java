@@ -18,7 +18,7 @@ class Car {
     }
 }
 
-public class oop01 {
+public class OOP_01 {
     public static void main(String[] args) {
         Car myCar = new Car("India", 2003, 2000);
         myCar.showDetails();
